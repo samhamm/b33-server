@@ -1,0 +1,21 @@
+{
+  "name": "server-example",
+  "version": "1.0.0",
+  "description": "This is a sample server for B33 on 20 Aug 2015",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sam",
+    "server",
+    "kittens",
+    "woohoo"
+  ],
+  "author": "Sam Hamm",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
